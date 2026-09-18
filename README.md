@@ -1,6 +1,6 @@
-HR Employee Attrition Analysis
+## HR Employee Attrition Analysis
 
-Project Overview
+### Project Overview
 
 
 
@@ -20,7 +20,7 @@ SQL data preparation → Exploratory analysis → SQL views → Power BI dashboa
 
 
 
-Business Objective
+### Business Objective
 
 
 
@@ -36,7 +36,7 @@ The main objective is to understand:
 
 
 
-Tools and Technologies
+### Tools and Technologies
 
 
 
@@ -45,9 +45,14 @@ Tools and Technologies
 * DAX — Dynamic measures and calculated columns
 * Excel/CSV — Source data handling
 
+### Project Files
 
+- [Power BI Dashboard](powerbi/HR_Employee_Attrition_Dashboard.pbix)
+- [SQL Scripts](sql/)
+- [Dataset](data/WA_Fn-UseC_-HR-Employee-Attrition.csv)
+- [Dashboard Screenshots](screenshots/)
 
-Dashboard Pages
+### Dashboard Pages
 
 
 
@@ -98,7 +103,7 @@ This page analyzes the relationship between attrition and:
 
 
 
-Key Findings
+### Key Findings
 
 
 
@@ -111,7 +116,7 @@ Key Findings
 
 
 
-Business Recommendation
+### Business Recommendation
 
 
 
@@ -123,7 +128,7 @@ These findings should be used to identify areas for further investigation rather
 
 
 
-Project Structure
+### Project Structure
 
 HR-Employee-Attrition-Analysis/
 
@@ -166,7 +171,7 @@ HR-Employee-Attrition-Analysis/
 │
 
 
-## Dashboard Preview
+### Dashboard Preview
 
 ### 1. HR Employee Attrition Overview
 
@@ -180,7 +185,7 @@ HR-Employee-Attrition-Analysis/
 
 ![Career Progression](screenshots/career-progression.png)
 
-Conclusion
+### Conclusion
 
 
 
