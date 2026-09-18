@@ -185,13 +185,9 @@ HR-Employee-Attrition-Analysis/
 
 ![Career Progression](screenshots/career-progression.png)
 
-### Conclusion
+## Conclusion
 
+This project demonstrates the use of SQL and Power BI to transform employee data into interactive dashboards and business-focused insights. The analysis covers attrition patterns across departments, job roles, compensation, satisfaction, work-life balance, tenure, and career progression.
 
-
-This project demonstrates the use of SQL and Power BI to transform employee data into interactive dashboards and business-focused insights.
-
-
-
-The dashboard can help HR teams explore attrition patterns and identify workforce segments that may benefit from deeper analysis and targeted retention initiatives.
+The dashboard provides an interactive way to explore these patterns and identify workforce segments that may benefit from deeper analysis and targeted retention initiatives.
 
