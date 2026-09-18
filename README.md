@@ -166,6 +166,19 @@ HR-Employee-Attrition-Analysis/
 │
 
 
+## Dashboard Preview
+
+### 1. HR Employee Attrition Overview
+
+![HR Employee Attrition Overview](screenshots/overview.png)
+
+### 2. Attrition Drivers
+
+![Attrition Drivers](screenshots/attrition-drivers.png)
+
+### 3. Career Progression and Employee Attrition
+
+![Career Progression](screenshots/career-progression.png)
 
 Conclusion
 
